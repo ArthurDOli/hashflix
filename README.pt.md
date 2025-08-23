@@ -1,5 +1,4 @@
 # Hashflix
-___
 
 ## Sobre o Projeto
 Este é um projeto web completo, desenvolvido com o framework Django, que simula uma plataforma de streaming de filmes e séries. O aplicativo permite que os usuários criem uma conta, façam login e acessem um catálogo de filmes com informações detalhadas, sistema de visualizações e um histórico de filmes assistidos.
