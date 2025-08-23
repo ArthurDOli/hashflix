@@ -1,5 +1,4 @@
 # Hashflix
-___
 
 ## About the Project
 This is a complete web project, developed with the Django framework, which simulates a movie and series streaming platform. The application allows users to create an account, log in, and access a movie catalog with detailed information, a view count system, and a history of watched films.
